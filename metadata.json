@@ -1,0 +1,7 @@
+{
+  "name": "Ideal Render",
+  "description": "A professional-grade AI tool for architects to transform basic 3D block models into photorealistic architectural renderings using the latest Gemini generative vision technology.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
